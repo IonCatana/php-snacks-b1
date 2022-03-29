@@ -17,6 +17,11 @@ $students = [
     'nome' => 'Paola',
     'cognome' => 'Verdi',
     'voti' => [7, 10, 5, 8, 9, 6]
+  ],
+  [
+    'nome' => 'Giuseppe',
+    'cognome' => 'Neri',
+    'voti' => [4, 5, 8, 2, 6, 8]
   ]
 ];
 
